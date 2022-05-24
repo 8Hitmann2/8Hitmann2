@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @8Hitmann2
-- 🌱 I’m currently learning to build 3D Objekts
+- 🌱 Hei3D 3Dimensional Object Design  -> ;) a small plant grows 
 - 📫 How to reach me Hei.dreideh@gmail.com
 
 <!---
